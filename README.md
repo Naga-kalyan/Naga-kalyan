@@ -26,13 +26,39 @@
 ### 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/kalyan_2784">
-    <img src="https://img.shields.io/badge/-codechef-61DBFB?style=for-the-badge&labelColor=black&logo=codechef&logoColor=61DBFB)" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/-codechef-red?style=for-the-badge&labelColor=black&logo=codechef&logoColor=f5f6f7d)" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.hackerrank.com/Naga_Kalyan">
-    <img src="https://img.shields.io/badge/-hackerrank-61DBFB?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=61DBFB)" alt="hackerrank" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/-hackerrank-gray?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=61DBFB)" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-
+  
+<a href="https://auth.geeksforgeeks.org/user/kalyan%20maka/practice/">
+    <img src="https://img.shields.io/badge/-GreeksforGreeks-darkgreen?style=for-the-badge&labelColor=black&logo=gg&logoColor=61DBFB)" alt="greeksforgreeks" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+<a href="https://www.kaggle.com/nagakalyan2784">
+    <img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&labelColor=black&logo=kaggle&logoColor=61DBFB)" alt="kaggle" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+### 👨🏻‍💻 Languages and Tools <br />
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAfM43jb-QFRS5tUMU9G4AvU0SYGX_J4cVpQ&usqp=CAU"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+  <code><img height="40" src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/tableau-integration-logo.png"></code>
+  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc2CTlEghMHiiw15cILGvhONqY8TF3I_wGZA&usqp=CAU"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg"></code>
+  <code><img height="40" src="https://seekvectorlogo.com/wp-content/uploads/2018/12/apache-spark-vector-logo-small.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png"></code>
+  <code><img height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
+  
 ### GitHub Stats
 </p>  
 <img align = "left" alt = "Naga Kalyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naga-kalyan&theme=algolia&show_icons=true" />
