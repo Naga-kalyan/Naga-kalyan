@@ -20,5 +20,5 @@
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  
+</p>  
 <img align = "left" alt = "Naga Kalyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naga-kalyan&theme=algolia&show_icons=true" />
