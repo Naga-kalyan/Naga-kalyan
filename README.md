@@ -1,4 +1,16 @@
 ### Hi there, I'm Naga Kalyan 👋
+<a href="https://twitter.com/makakalyan">
+  <img align="left" alt="Naga kalyan twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/naga-kalyan-ba0a91137/">
+  <img align="left" alt="Naga kalyan Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/nagakalyan/">
+  <img align="left" alt="Naga kalyan Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/naga.kalyan.562">
+  <img align="left" alt="Naga kalyan Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 - 🔭 I’m currently Purshuing PG diploma datascience course at manipal
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....
