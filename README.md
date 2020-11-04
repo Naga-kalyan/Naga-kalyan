@@ -1,3 +1,7 @@
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
 ### Hi there, I'm Naga Kalyan 👋
 <a href="https://twitter.com/makakalyan">
   <img align="left" alt="Naga kalyan twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -62,3 +66,4 @@
 ### GitHub Stats
 </p>  
 <img align = "left" alt = "Naga Kalyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naga-kalyan&theme=algolia&show_icons=true" />
+
