@@ -12,6 +12,7 @@
 <a href="https://www.facebook.com/naga.kalyan.562">
   <img align="left" alt="Naga kalyan Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 300 width = 300 />
 <br>
 
 - 🔭 I’m currently Purshuing PG diploma datascience course at manipal
