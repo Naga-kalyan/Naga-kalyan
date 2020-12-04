@@ -1,6 +1,3 @@
-<div class="border border-black-fade bg-blue-light p-2 mb-2">
-  .border-black-fade .bg-blue-light
-</div>
 ### Hi there, I'm Naga Kalyan 👋
 <a href="https://twitter.com/makakalyan">
   <img align="left" alt="Naga kalyan twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
