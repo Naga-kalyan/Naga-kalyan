@@ -21,7 +21,7 @@
 - 💬 **Ask me about anything related to Python/Machine Learning/Big Data**
 - 💼 **I have 1 year 4 months experience in Broadcom as a  Bluetooth FW test engineer.**
 - 🥅 **My current goal is to become a Data Scientist**
-- 📫 **How to reach me: makakalyan@gmail.com,9866206310**
+- 📫 **How to reach me: makakalyan@gmail.com, 9866206310**
 - ⚡ **Fun fact: Sorry Babe, Not Tonight. I'm coding 😅**
 
 ### 📢 Find me elsewhere
