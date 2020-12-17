@@ -14,15 +14,15 @@
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 300 width = 300 />
 <br>
 
-- 🔭 I’m currently Purshuing PG diploma datascience course at manipal
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....
-- 👯 I’m looking to collaborate Data Analyst, Data scientist....
-- 🤔 I’m looking for help to develop my data science skills
-- 💬 Ask me about anything related to Python/Machine Learning/Big Data
-- 💼 I have 1 year 4 months experience in **Broadcom** as a  Bluetooth FW test engineer.
-- 🥅 My current goal is to become a **Data Scientist**
-- 📫 How to reach me: makakalyan@gmail.com,9866206310
-- ⚡ Fun fact: Sorry Babe, Not Tonight. I'm coding 😅
+- 🔭 **I’m currently Purshuing PG diploma datascience course at manipal**
+- 🌱 **I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....**
+- 👯 **I’m looking to collaborate Data Analyst, Data scientist....**
+- 🤔 **I’m looking for help to develop my data science skills**
+- 💬 **Ask me about anything related to Python/Machine Learning/Big Data**
+- 💼 **I have 1 year 4 months experience in Broadcom as a  Bluetooth FW test engineer.**
+- 🥅 **My current goal is to become a Data Scientist**
+- 📫 **How to reach me: makakalyan@gmail.com,9866206310**
+- ⚡ **Fun fact: Sorry Babe, Not Tonight. I'm coding 😅**
 
 ### 📢 Find me elsewhere
 <p align="left">
