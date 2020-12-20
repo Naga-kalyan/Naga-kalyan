@@ -42,6 +42,10 @@
     <img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&labelColor=black&logo=kaggle&logoColor=61DBFB)" alt="kaggle" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
+<a href="https://public.tableau.com/profile/m.naga.kalyan#!/">
+    <img src="https://img.shields.io/badge/-tableau-yellow?style=for-the-badge&labelColor=black&logo=tableau&logoColor=FFEF33)" alt="tableau" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
 ### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
